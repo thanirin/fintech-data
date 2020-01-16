@@ -1,5 +1,3 @@
-# Fraud Detection: Enron Email Dataset
-
 # Enron Email Dataset
 **credit**: William W. Cohen, MLD, CMU, (2015), [source](https://www.cs.cmu.edu/~./enron/).  
 
